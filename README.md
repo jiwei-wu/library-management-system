@@ -26,6 +26,11 @@ A Spring Boot backend application for managing books.
 - Repository → database access
 - Entity → database mapping
 
+## Features
+- RESTful API with CRUD operations
+- Logging using SLF4J
+- Global exception handling using @ControllerAdvice
+
 ## 📡 API Endpoints
 
 | Method | Endpoint     | Description       |
